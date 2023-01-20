@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\n\nThis chat GPT appears to be working properly."
+    }
+  ],
+  "created": 1674178986,
+  "id": "cmpl-6aaioGnhmwfwK8Wi0Da7nq1TZ2HPa",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 12,
+    "prompt_tokens": 5,
+    "total_tokens": 17
+  }
+}

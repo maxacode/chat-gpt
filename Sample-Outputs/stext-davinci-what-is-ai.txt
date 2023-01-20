@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "?\n\nAI (Artificial Intelligence) is an area of computer science that focuses on creating intelligent machines that can think and work like humans. AI technologies are used to create computer systems that can think and act like humans by learning from data, recognizing patterns, and making decisions. AI can be used for a wide range of applications, from language translation and medical diagnosis to autonomous vehicles and robotics."
+    }
+  ],
+  "created": 1674179096,
+  "id": "cmpl-6aaka4B7E7MtnEQT9d8i5HEbkQBOX",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 3,
+    "total_tokens": 82
+  }
+}
